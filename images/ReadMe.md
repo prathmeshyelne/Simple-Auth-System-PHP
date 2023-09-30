@@ -1,0 +1,1 @@
+Default Image Folder
